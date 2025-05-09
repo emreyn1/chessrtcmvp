@@ -1,6 +1,6 @@
 import { initializeApp } from 'https://www.gstatic.com/firebasejs/9.6.10/firebase-app.js';
 import { getDatabase, ref, set, update, push, onValue, get } from 'https://www.gstatic.com/firebasejs/9.6.10/firebase-database.js';const firebaseConfig = {
-  apiKey: "AIzaSyAp4vuz0CkJl7tH9RIyBEE4OWVZal7U0s8",
+  apiKey: "Apikey",
   authDomain: "chess-c3a28.firebaseapp.com",
   databaseURL: "https://chess-c3a28-default-rtdb.firebaseio.com",
   projectId: "chess-c3a28",
